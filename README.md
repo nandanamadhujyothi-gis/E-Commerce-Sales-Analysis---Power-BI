@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis - Power-BI
+# E-Commerce Sales Analysis: Power-BI
 Power BI project focused on data transformation, data modeling and e-commerce sales analysis. The project uses e-commerce datasets to organise, transform and prepare sales data for analytical purposes.
 
 Objectives
